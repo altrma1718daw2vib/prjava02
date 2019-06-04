@@ -8,7 +8,7 @@
 ### git log
 
 # Fusió entre la branca master i la branca branca002
-##git merge branca002
+## git merge branca002
 
 # Push de la branca branca01
 ## git push origin master
